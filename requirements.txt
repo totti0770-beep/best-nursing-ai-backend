@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+supabase
+pinecone
+openai
+pydantic
+pyjwt
+slowapi
+redis
+pytest
+# Add other dependencies here as needed
