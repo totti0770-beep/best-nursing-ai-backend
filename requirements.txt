@@ -1,5 +1,6 @@
 fastapi
 fastapi-cache2
+jinja2
 uvicorn
 supabase
 pinecone
